@@ -6,6 +6,7 @@ Therefore, I decided to write an HTTP Server with Rust, allowing others to call 
 
 # Dependencies
 * [tokio](https://crates.io/crates/tokio)
+* [colored](https://crates.io/crates/colored)
 
 (you can see more in `Cargo.toml`)
 
