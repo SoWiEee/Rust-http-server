@@ -6,6 +6,7 @@ use colored::*;
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let listener = TcpListener::bind("127.0.0.1:3000").await?;
+    println!("{}", "Server is running at http://localhost:3000".blue().bold());
     loop {
         let (mut socket, _) = listener.accept().await?;
         tokio::spawn(async move {
