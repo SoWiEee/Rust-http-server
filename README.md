@@ -1,4 +1,6 @@
 # Rust-http-server
+![image](https://github.com/user-attachments/assets/d3fbb643-5f91-4304-a1bf-307ca3b4e3e7)
+
 
 # Motivation
 I self-studied Rust and was unsure about what side project to undertake during my freshman year.
