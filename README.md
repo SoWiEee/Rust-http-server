@@ -1,5 +1,5 @@
 # Rust-http-server
-![image](https://github.com/user-attachments/assets/d3fbb643-5f91-4304-a1bf-307ca3b4e3e7)
+![image](https://github.com/user-attachments/assets/078d259d-8e74-47f1-8d5e-c0bf1b0044f5)
 
 
 # Motivation
